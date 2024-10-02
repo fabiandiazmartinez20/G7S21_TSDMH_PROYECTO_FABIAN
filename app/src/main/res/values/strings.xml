@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">G7S21_TSDMH_PROYECTO_FABIAN</string>
+    <string name="titulop">DATOS</string>
+    <string name="titulop2">Espera un momento.......</string>
+    <string name="menu">MENU</string>
+    <string name="captura">Captura</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="terminar">Terminar</string>
+    <string name="cap">Captura tus datos</string>
+    <string name="datoscapturados">Datos Capturados</string>
+    <string name="nombre">Nombre:</string>
+    <string name="Edad">Edad:</string>
+    <string name="Correo">Correo:</string>
+    <string name="nombreh">ingresa tu nombre</string>
+    <string name="edadh">Ingresa tu edad</string>
+    <string name="Correoh">Ingresa tu correo</string>
+    <string name="regresar">Regresar</string>
+
+</resources>
